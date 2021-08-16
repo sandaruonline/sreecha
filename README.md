@@ -3,8 +3,8 @@
     <img src="assets/icon.png" alt="Icon" width="150" height="150">
   </a>
   
-  <h3 align="center">5R33CH4</h3>
+  <h3 align="center">**5R33CH4**</h3>
 
   <p align="center">
-    Website Source Code </>
+    `Website Source Code` </>
     <br />
