@@ -8,7 +8,6 @@
   </a>
   
   <h2 align="center">5R33CH4</h2>
-  <p align="center">Personal Website</p></p>
-  [-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  <p align="center">Personal Website
  
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
