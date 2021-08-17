@@ -6,6 +6,6 @@
   <a href="https://github.com/5R33CH4/sreecha">
     <img src="https://i.imgur.com/MB7vViE.png" alt="Icon" width="150" height="150">
   </a><br>
-<p style="color:blue;font-size:50px;"><b>5R33CH4</b></p>  
+<p style="font-size:50px;"><b>5R33CH4</b></p>  
   <p align="center">Personal Website<br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
