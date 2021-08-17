@@ -7,6 +7,6 @@
     <img src="https://i.imgur.com/MB7vViE.png" alt="Icon" width="150" height="150">
   </a>
   
-  <h2 align="center">5R33CH4</h2>
+  <b>5R33CH4</b>
   <p align="center">Personal Website<br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
