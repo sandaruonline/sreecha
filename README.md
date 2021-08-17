@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/github/license/5R33CH4/sreecha?color=9cf&logo=License&logoColor=6969&style=for-the-badge">
   </a>
   <br>
-  <a href="http://sreecha.me">
+  <a href="https://sreecha.me">
     <img src="https://img.shields.io/website?down_color=ff0769&style=for-the-badge&url=https%3A%2F%2F5r33ch4.github.io">
   </a>
   <a href="https://discord.gg/zBfSCasSnX">
