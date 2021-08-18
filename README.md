@@ -16,6 +16,8 @@
   <br>
   <img src="https://i.imgur.com/WIr4Rp3.png" width="400" height="40">
   <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+  
+  
+  ---
 
 
