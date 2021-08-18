@@ -11,7 +11,7 @@
   </a>
   <br>
   <a href="https://github.com/5R33CH4/sreecha">
-    <img src="https://i.imgur.com/MB7vViE.png" alt="Icon" width="150" height="150">
+    <img src="./assets/icon.png" alt="Icon" width="150" height="150">
   </a>
   <br>
   <img src="https://i.imgur.com/WIr4Rp3.png" width="400" height="40">
