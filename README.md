@@ -10,8 +10,7 @@
     <img src="https://img.shields.io/discord/855953645963444246?color=6c3af4&label=Discord&style=for-the-badge">
   </a>
   <br>
-  <a href="https://github.com/5R33CH4/sreecha">
-  </a>
+
   <br>
   <img src="https://i.imgur.com/WIr4Rp3.png" width="400" height="40">
   <br>
